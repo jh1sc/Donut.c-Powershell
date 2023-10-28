@@ -1,5 +1,6 @@
 # Donut.c-Powershell
 Donut.c but powershell!
+- Powershell 5.0, Windows
 
 ```
                      $Ca = ".,-~:;=!*#$@";$sin `
