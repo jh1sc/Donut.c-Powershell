@@ -1,6 +1,7 @@
 # Donut.c-Powershell
 Donut.c but powershell!
 - Powershell 5.0, Windows, Font: Consolas
+- Powershell 7.0, Unix, Font: Monospace, Depends: xterm
 
 ```
                      $Ca = ".,-~:;=!*#$@";$sin `
